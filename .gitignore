@@ -1,9 +1,15 @@
 bin
 build
 out
+*.out
 .gradle
 .idea
 *.iml
 .vscode
 .DS_Store
 *.hprof
+*.log
+.kotlin
+# derivative doc files
+docs/index.md
+docs/api

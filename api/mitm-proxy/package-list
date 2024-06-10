@@ -1,0 +1,38 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+$dokka.location:io.github.cfraser.mitmproxy////PointingToDeclaration/mitm-proxy/io.github.cfraser.mitmproxy/index.html
+$dokka.location:io.github.cfraser.mitmproxy/Credentials///PointingToDeclaration/mitm-proxy/io.github.cfraser.mitmproxy/-credentials/index.html
+$dokka.location:io.github.cfraser.mitmproxy/Credentials/Credentials/#kotlin.String#kotlin.String/PointingToDeclaration/mitm-proxy/io.github.cfraser.mitmproxy/-credentials/-credentials.html
+$dokka.location:io.github.cfraser.mitmproxy/Credentials/password/#/PointingToDeclaration/mitm-proxy/io.github.cfraser.mitmproxy/-credentials/password.html
+$dokka.location:io.github.cfraser.mitmproxy/Credentials/username/#/PointingToDeclaration/mitm-proxy/io.github.cfraser.mitmproxy/-credentials/username.html
+$dokka.location:io.github.cfraser.mitmproxy/Interceptor///PointingToDeclaration/mitm-proxy/io.github.cfraser.mitmproxy/-interceptor/index.html
+$dokka.location:io.github.cfraser.mitmproxy/Interceptor/intercept/#io.github.cfraser.mitmproxy.Request/PointingToDeclaration/mitm-proxy/io.github.cfraser.mitmproxy/-interceptor/intercept.html
+$dokka.location:io.github.cfraser.mitmproxy/Interceptor/intercept/#io.github.cfraser.mitmproxy.Response/PointingToDeclaration/mitm-proxy/io.github.cfraser.mitmproxy/-interceptor/intercept.html
+$dokka.location:io.github.cfraser.mitmproxy/Interceptor/interceptable/#io.github.cfraser.mitmproxy.Request/PointingToDeclaration/mitm-proxy/io.github.cfraser.mitmproxy/-interceptor/interceptable.html
+$dokka.location:io.github.cfraser.mitmproxy/Interceptor/proxier/#/PointingToDeclaration/mitm-proxy/io.github.cfraser.mitmproxy/-interceptor/proxier.html
+$dokka.location:io.github.cfraser.mitmproxy/Proxier.Companion///PointingToDeclaration/mitm-proxy/io.github.cfraser.mitmproxy/-proxier/-companion/index.html
+$dokka.location:io.github.cfraser.mitmproxy/Proxier.Companion/create/#okhttp3.OkHttpClient/PointingToDeclaration/mitm-proxy/io.github.cfraser.mitmproxy/-proxier/-companion/create.html
+$dokka.location:io.github.cfraser.mitmproxy/Proxier///PointingToDeclaration/mitm-proxy/io.github.cfraser.mitmproxy/-proxier/index.html
+$dokka.location:io.github.cfraser.mitmproxy/Proxier/execute/#io.github.cfraser.mitmproxy.Request/PointingToDeclaration/mitm-proxy/io.github.cfraser.mitmproxy/-proxier/execute.html
+$dokka.location:io.github.cfraser.mitmproxy/Request///PointingToDeclaration/mitm-proxy/io.github.cfraser.mitmproxy/-request/index.html
+$dokka.location:io.github.cfraser.mitmproxy/Request/Request/#java.net.URI#kotlin.String#kotlin.collections.Map[kotlin.String,kotlin.String]#kotlin.ByteArray?/PointingToDeclaration/mitm-proxy/io.github.cfraser.mitmproxy/-request/-request.html
+$dokka.location:io.github.cfraser.mitmproxy/Request/body/#/PointingToDeclaration/mitm-proxy/io.github.cfraser.mitmproxy/-request/body.html
+$dokka.location:io.github.cfraser.mitmproxy/Request/headers/#/PointingToDeclaration/mitm-proxy/io.github.cfraser.mitmproxy/-request/headers.html
+$dokka.location:io.github.cfraser.mitmproxy/Request/method/#/PointingToDeclaration/mitm-proxy/io.github.cfraser.mitmproxy/-request/method.html
+$dokka.location:io.github.cfraser.mitmproxy/Request/toString/#/PointingToDeclaration/mitm-proxy/io.github.cfraser.mitmproxy/-request/to-string.html
+$dokka.location:io.github.cfraser.mitmproxy/Request/uri/#/PointingToDeclaration/mitm-proxy/io.github.cfraser.mitmproxy/-request/uri.html
+$dokka.location:io.github.cfraser.mitmproxy/Response///PointingToDeclaration/mitm-proxy/io.github.cfraser.mitmproxy/-response/index.html
+$dokka.location:io.github.cfraser.mitmproxy/Response/Response/#io.github.cfraser.mitmproxy.Request#kotlin.Int#kotlin.collections.Map[kotlin.String,kotlin.String]#kotlin.ByteArray?/PointingToDeclaration/mitm-proxy/io.github.cfraser.mitmproxy/-response/-response.html
+$dokka.location:io.github.cfraser.mitmproxy/Response/body/#/PointingToDeclaration/mitm-proxy/io.github.cfraser.mitmproxy/-response/body.html
+$dokka.location:io.github.cfraser.mitmproxy/Response/headers/#/PointingToDeclaration/mitm-proxy/io.github.cfraser.mitmproxy/-response/headers.html
+$dokka.location:io.github.cfraser.mitmproxy/Response/request/#/PointingToDeclaration/mitm-proxy/io.github.cfraser.mitmproxy/-response/request.html
+$dokka.location:io.github.cfraser.mitmproxy/Response/statusCode/#/PointingToDeclaration/mitm-proxy/io.github.cfraser.mitmproxy/-response/status-code.html
+$dokka.location:io.github.cfraser.mitmproxy/Response/toString/#/PointingToDeclaration/mitm-proxy/io.github.cfraser.mitmproxy/-response/to-string.html
+$dokka.location:io.github.cfraser.mitmproxy/Server.Companion///PointingToDeclaration/mitm-proxy/io.github.cfraser.mitmproxy/-server/-companion/index.html
+$dokka.location:io.github.cfraser.mitmproxy/Server.Companion/create/#kotlin.Array[io.github.cfraser.mitmproxy.Interceptor]#io.github.cfraser.mitmproxy.Proxier?#java.util.concurrent.ExecutorService?#java.nio.file.Path?#java.nio.file.Path?#io.github.cfraser.mitmproxy.Credentials?/PointingToDeclaration/mitm-proxy/io.github.cfraser.mitmproxy/-server/-companion/create.html
+$dokka.location:io.github.cfraser.mitmproxy/Server///PointingToDeclaration/mitm-proxy/io.github.cfraser.mitmproxy/-server/index.html
+$dokka.location:io.github.cfraser.mitmproxy/Server/close/#/PointingToDeclaration/mitm-proxy/io.github.cfraser.mitmproxy/-server/close.html
+$dokka.location:io.github.cfraser.mitmproxy/Server/start/#kotlin.Int/PointingToDeclaration/mitm-proxy/io.github.cfraser.mitmproxy/-server/start.html
+$dokka.location:io.github.cfraser.mitmproxy/Server/stop/#/PointingToDeclaration/mitm-proxy/io.github.cfraser.mitmproxy/-server/stop.html
+io.github.cfraser.mitmproxy
+
